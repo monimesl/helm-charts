@@ -3,12 +3,12 @@ entries:
   k8s-superop:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-19T13:22:52.777132797Z"
+    created: "2020-09-19T14:19:28.634343463Z"
     description: A Helm chart for the Kubernetes superoperator
-    digest: b8bbcdda66f35a342831cc652f3568d911d6ae125fe30bcb141d7ebc73786991
+    digest: 90a8fe464ecc423967d32d69032a6e3fa9b1223490bdebf9c4e6a1eaedebb7d8
     name: k8s-superop
     type: application
     urls:
     - https://skulup.github.io/charts/k8s-superop-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-19T13:22:52.776215301Z"
+generated: "2020-09-19T14:19:28.633995962Z"
