@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pulsar-operator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-26T10:46:58.385594374Z"
+    description: A Helm chart for the Kubernetes superoperator
+    digest: 7750d8bf4eb7b6aac81c0df33fd3c98f4e015c0a2bf719695fc5d5ac64a71166
+    name: pulsar-operator
+    type: application
+    urls:
+    - https://skulup.github.io/charts/pulsar-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-26T10:46:58.385097159Z"
