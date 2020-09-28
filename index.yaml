@@ -2,26 +2,16 @@ apiVersion: v1
 entries:
   pulsar-operator:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-09-28T22:10:25.014638582Z"
-    description: Helm chart for https://github.com/skulup/pulsar-operator
-    digest: ab0bd860d886ce58ad45784330720d91aa43f9515caa444d8d867d15f3954173
-    name: pulsar-operator
-    type: application
-    urls:
-    - https://skulup.github.io/charts/pulsar-operator-0.1.0.tgz
-    version: 0.1.0
-  - apiVersion: v2
-    appVersion: v0.1.0
-    created: "2020-09-28T22:10:25.015781179Z"
+    appVersion: 0.1.0
+    created: "2020-09-28T22:29:50.283852266Z"
     description: Helm chart for pulsar-operator
-    digest: e507aa35ead96118dc54614b8cf77a5565a33198301b8f082bd145c5f4e533a2
+    digest: 9cb37a02aba12e466d2fa43a0ba72fcff9b07ccfcc5dc0073fd7014a56881edb
     home: https://github.com/skulup/pulsar-operator
     maintainers:
     - name: Wirelimited & Skulup Team & Open Collaborators
     name: pulsar-operator
     type: application
     urls:
-    - https://skulup.github.io/charts/pulsar-operator-v0.1.0.tgz
-    version: v0.1.0
-generated: "2020-09-28T22:10:25.012887885Z"
+    - https://skulup.github.io/charts/pulsar-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-28T22:29:50.282076563Z"
