@@ -3,12 +3,12 @@ entries:
   pulsar-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-28T17:58:01.855209568Z"
+    created: "2020-09-28T18:04:12.322474033Z"
     description: Helm chart for https://github.com/skulup/pulsar-operator
-    digest: 6c4f8ff95aa692d44c64223e79899ab3313fd7ac5357d0f10bf0ce8670c013df
+    digest: 6d4c6bf777f434719a2b2fc23146512a78c1957c093a8452ae09d0b98be3319f
     name: pulsar-operator
     type: application
     urls:
     - https://skulup.github.io/charts/pulsar-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-28T17:58:01.853315962Z"
+generated: "2020-09-28T18:04:12.32054194Z"
