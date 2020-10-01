@@ -3,10 +3,10 @@ entries:
   pulsar-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-10-01T09:56:44.700516558Z"
+    created: "2020-10-01T10:21:38.142463613Z"
     description: Helm chart for pulsar-operator
-    digest: 17756c7c2d3202821a9cff5e03b785aee892f7c17341efc202debe2c4160f5fa
-    home: https://github.com/alphashaw/pulsar-operator
+    digest: c0df6aa3e62611283e9ee5b1e6f3ed7f4fc3a268617eaf44aedc88777fb1db22
+    home: https://github.com/wireltd/pulsar-operator
     maintainers:
     - name: Wirelimited & Skulup Team & Open Collaborators
     name: pulsar-operator
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://wireltd.github.io/charts/pulsar-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-01T09:56:44.698489476Z"
+generated: "2020-10-01T10:21:38.140373104Z"
