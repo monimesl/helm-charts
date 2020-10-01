@@ -2,4 +2,4 @@
 
 
 
-## [Pulsar-Operator](https://github.com/skulup/pulsar-operator/)
+## [Apache Pulsar Operator](https://github.com/wiretld/pulsar-operator/)
