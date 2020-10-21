@@ -3,7 +3,7 @@ entries:
   pulsar-operator:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-10-21T01:56:09.185741479Z"
+    created: "2020-10-21T02:02:11.797315958Z"
     description: Helm chart for pulsar-operator
     digest: 5efb5e83c5cf2eca6579400eb38db2fff5b879d92a4e7430e56b3b6c273b8393
     home: https://github.com/alphashaw/pulsar-operator
@@ -16,7 +16,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2020-10-21T01:56:09.184091572Z"
+    created: "2020-10-21T02:02:11.795976239Z"
     description: Helm chart for pulsar-operator
     digest: 1091bbb5cf9acc0196ef9fa28bf67af9448fef7509fac0a5e9d9a3fe01c825db
     home: https://github.com/skulup/pulsar-operator
@@ -29,7 +29,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-10-21T01:56:09.182145564Z"
+    created: "2020-10-21T02:02:11.794020012Z"
     description: Helm chart for pulsar-operator
     digest: db7691e4551e6b878b43d2be21b9886a6c4e9bd6b04af2f8d8a9fda528e2613f
     home: https://github.com/skulup/pulsar-operator
@@ -43,7 +43,7 @@ entries:
   zookeeper-operator:
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2020-10-21T01:56:09.224143034Z"
+    created: "2020-10-21T02:02:11.824885444Z"
     description: A Helm chart for zookeeper-operator
     digest: 7b0a6ffb252d3b486c956feda92d8f72195de271b039eb5b0d57c36edcc232ed
     home: https://github.com/skulup/zookeeper-operator
@@ -56,7 +56,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2020-10-21T01:56:09.211352282Z"
+    created: "2020-10-21T02:02:11.815783216Z"
     description: A Helm chart for zookeeper-operator
     digest: a56b8efee9d6945a2e683f03f3fe7a0359ce5b372026800057a783664859c5a2
     home: https://github.com/skulup/zookeeper-operator
@@ -69,7 +69,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2020-10-21T01:56:09.203787952Z"
+    created: "2020-10-21T02:02:11.807585302Z"
     description: A Helm chart for zookeeper-operator
     digest: fd218ed13b2143a1a61187764a3f49f7d56b5f207dd370916726ad28eb5f7e0c
     home: https://github.com/skulup/zookeeper-operator
@@ -82,9 +82,9 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-10-21T01:56:09.194962616Z"
+    created: "2020-10-21T02:02:11.799355386Z"
     description: A Helm chart for zookeeper-operator
-    digest: 8b1d0a956157961958b266836ff072d70705d3bfd6e96296fbb252b62ca6217e
+    digest: 4f87d88f74fc8f69e8576029c8714e88f84abe96275d1270849baa6546f949c4
     home: https://github.com/skulup/zookeeper-operator
     maintainers:
     - name: Wirelimited & Skulup Team & Open Collaborators
@@ -95,7 +95,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-10-21T01:56:09.186585782Z"
+    created: "2020-10-21T02:02:11.798481974Z"
     description: A Helm chart for zookeeper-operator
     digest: 8dc0eb1d04583e5b7f39ae17e5c6a5472aa3b3d4bafb3e477fd1e7060726f2ca
     home: https://github.com/skulup/zookeeper-operator
@@ -106,4 +106,4 @@ entries:
     urls:
     - https://skulup.github.io/charts/zookeeper-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-21T01:56:09.17852055Z"
+generated: "2020-10-21T02:02:11.790975369Z"
