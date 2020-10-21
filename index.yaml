@@ -3,9 +3,9 @@ entries:
   zookeeper-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-10-21T02:24:55.270799954Z"
+    created: "2020-10-21T03:54:43.343450187Z"
     description: A Helm chart for zookeeper-operator
-    digest: 74ff7b2f43b165e6f7c9f8b7b042f09906ec835949511432ee52396371360976
+    digest: 4a113f74ddaa1a39904a0d440df4c71cb0a863d29cd2b6395133367ca5cf1f22
     home: https://github.com/skulup/zookeeper-operator
     maintainers:
     - name: Wirelimited & Skulup Team & Open Collaborators
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://skulup.github.io/charts/zookeeper-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-21T02:24:55.269756852Z"
+generated: "2020-10-21T03:54:43.342408887Z"
