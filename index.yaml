@@ -3,9 +3,9 @@ entries:
   zookeeper-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-07-16T17:52:43.925275055Z"
+    created: "2021-07-16T17:56:51.003624137Z"
     description: A Helm chart for zookeeper-operator
-    digest: 507c4b3a98f4a2cd93f8257270550ce26007f9ef19ca1dc028dd05139db7311e
+    digest: ca1e90e70d6ca7a2990fefc92c82dbf456cf1755f76794f5ea2c503c37e3bd70
     home: https://github.com/monimesl/zookeeper-operator
     kubeVersion: '>=1.16.0'
     maintainers:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://monimesl.github.io/helm-charts/zookeeper-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-16T17:52:43.92416064Z"
+generated: "2021-07-16T17:56:51.002227029Z"
