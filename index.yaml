@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   bookkeeper-operator:
   - apiVersion: v2
+    appVersion: 0.2.4
+    created: "2025-01-02T00:52:11.675913908Z"
+    description: A Helm chart for bookkeeper-operator
+    digest: 6329ac09fce71949d83ae9924b987f9d21dc5d52ef6a952aea2dcb9dfd6e0e89
+    home: https://github.com/monimesl/bookkeeper-operator
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - name: Monime Team & Open Collaborators
+    name: bookkeeper-operator
+    type: application
+    urls:
+    - https://monimesl.github.io/helm-charts/bookkeeper-operator-0.2.4.tgz
+    version: 0.2.4
+  - apiVersion: v2
     appVersion: 0.2.3
-    created: "2024-07-17T23:53:20.480977843Z"
+    created: "2025-01-02T00:52:11.675684584Z"
     description: A Helm chart for bookkeeper-operator
     digest: 3c3e6f3194f960502997346f3600b844f8bf72c6fb9d5678695b1ac5a1a91405
     home: https://github.com/monimesl/bookkeeper-operator
@@ -17,7 +31,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2024-07-17T23:53:20.480760627Z"
+    created: "2025-01-02T00:52:11.6754669Z"
     description: A Helm chart for bookkeeper-operator
     digest: 0feb88fde7867fd9b7beaf97f789565dc242584fc4ecad9b3c262701a0737223
     home: https://github.com/monimesl/bookkeeper-operator
@@ -31,7 +45,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2024-07-17T23:53:20.480535365Z"
+    created: "2025-01-02T00:52:11.67524536Z"
     description: A Helm chart for bookkeeper-operator
     digest: 9d327e2dfef32b12df7667745e830c3dbfb7206270d965a702d5abffb1203073
     home: https://github.com/monimesl/bookkeeper-operator
@@ -45,7 +59,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-07-17T23:53:20.48030847Z"
+    created: "2025-01-02T00:52:11.675022878Z"
     description: A Helm chart for bookkeeper-operator
     digest: 296aaa64d8cb2b794b95270b10f900f551e6415092ce3d1196b42e96f6b65076
     home: https://github.com/monimesl/bookkeeper-operator
@@ -59,7 +73,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2024-07-17T23:53:20.475648865Z"
+    created: "2025-01-02T00:52:11.670669766Z"
     description: A Helm chart for bookkeeper-operator
     digest: 19b4681f3b538e1583a7c9a43d55a67d838198eaf955c20ac7a35b8b715f8a42
     home: https://github.com/monimesl/bookkeeper-operator
@@ -73,7 +87,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2024-07-17T23:53:20.475153979Z"
+    created: "2025-01-02T00:52:11.670189486Z"
     description: A Helm chart for bookkeeper-operator
     digest: 08c7c2f25b98561114e0621baba550de5b1db89e33907e004c0c9177831ede34
     home: https://github.com/monimesl/bookkeeper-operator
@@ -87,7 +101,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2024-07-17T23:53:20.474455652Z"
+    created: "2025-01-02T00:52:11.669706732Z"
     description: A Helm chart for bookkeeper-operator
     digest: b6a1bb9925c69d2965c8eaf2782ce126487a8574bc4965f89bf8abd2b1e7ea41
     home: https://github.com/monimesl/bookkeeper-operator
@@ -101,7 +115,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2024-07-17T23:53:20.473948363Z"
+    created: "2025-01-02T00:52:11.669216514Z"
     description: A Helm chart for bookkeeper-operator
     digest: 2dceb609d16ce976fde99ab1bdbf9f05b7f84f2ec9ce3a9123257accf5f13be3
     home: https://github.com/monimesl/bookkeeper-operator
@@ -115,7 +129,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2024-07-17T23:53:20.462609694Z"
+    created: "2025-01-02T00:52:11.668458987Z"
     description: A Helm chart for bookkeeper-operator
     digest: 0c3f2072c33f48c98fec8186f0e62e687f9db9c5d9dc0aa72ec1d8f78f6c6e2e
     home: https://github.com/monimesl/bookkeeper-operator
@@ -129,7 +143,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2024-07-17T23:53:20.462117784Z"
+    created: "2025-01-02T00:52:11.667585545Z"
     description: A Helm chart for bookkeeper-operator
     digest: 8a81dc10f50cbc5c2b3e7639f501268dae5edd68557bdc0b64919f3a8c0bbcbe
     home: https://github.com/monimesl/bookkeeper-operator
@@ -143,7 +157,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2024-07-17T23:53:20.461611806Z"
+    created: "2025-01-02T00:52:11.667095768Z"
     description: A Helm chart for bookkeeper-operator
     digest: 46b48ca2dc31207e3c2e06e452ce356f03c30a8be245350d8a5f9df852ea82bf
     home: https://github.com/monimesl/bookkeeper-operator
@@ -157,7 +171,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2024-07-17T23:53:20.461072908Z"
+    created: "2025-01-02T00:52:11.666585783Z"
     description: A Helm chart for bookkeeper-operator
     digest: 86f4234954292d5bc5e05b8e08c6b2f1aa0ad3f64c75875b56f649c53122fbeb
     home: https://github.com/monimesl/bookkeeper-operator
@@ -171,7 +185,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2024-07-17T23:53:20.480069974Z"
+    created: "2025-01-02T00:52:11.674793593Z"
     description: A Helm chart for bookkeeper-operator
     digest: f24f63c64b271e70f829e475e3046dc5d97e0ec1230d16e6432acd15569b8b6b
     home: https://github.com/monimesl/bookkeeper-operator
@@ -185,7 +199,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-07-17T23:53:20.479546615Z"
+    created: "2025-01-02T00:52:11.674299418Z"
     description: A Helm chart for bookkeeper-operator
     digest: 0d6fa3ce1411f719b3623e4d65718cb5ddbabfed9d0a759815ac3261ed803796
     home: https://github.com/monimesl/bookkeeper-operator
@@ -199,7 +213,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2024-07-17T23:53:20.479007125Z"
+    created: "2025-01-02T00:52:11.673615381Z"
     description: A Helm chart for bookkeeper-operator
     digest: 278eece8b2f4f00d58bc303a48f896ff082840857a4eaef40eb14b1126b5841a
     home: https://github.com/monimesl/bookkeeper-operator
@@ -213,7 +227,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2024-07-17T23:53:20.477988184Z"
+    created: "2025-01-02T00:52:11.67262146Z"
     description: A Helm chart for bookkeeper-operator
     digest: 4e3fe7294b98402befc424f237b23bf3e85715f992ef7ed7265958a51a7003cd
     home: https://github.com/monimesl/bookkeeper-operator
@@ -227,7 +241,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2024-07-17T23:53:20.477119085Z"
+    created: "2025-01-02T00:52:11.672142844Z"
     description: A Helm chart for bookkeeper-operator
     digest: 5ea19e2a9b438b3ac7b6d86754104b4d0450677e920b2487ba3bc312c4d970c5
     home: https://github.com/monimesl/bookkeeper-operator
@@ -241,7 +255,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2024-07-17T23:53:20.476639538Z"
+    created: "2025-01-02T00:52:11.671618874Z"
     description: A Helm chart for bookkeeper-operator
     digest: ea51072097016566b5b8f822ccc4088098ee16476a11ecc5a3862bb93ff5b4dd
     home: https://github.com/monimesl/bookkeeper-operator
@@ -255,7 +269,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-07-17T23:53:20.476148279Z"
+    created: "2025-01-02T00:52:11.671146308Z"
     description: A Helm chart for bookkeeper-operator
     digest: 0dbe5d812a505afdb50c6f6d09c45c693cc873b22409348a3c9bdbe7555a2fc0
     home: https://github.com/monimesl/bookkeeper-operator
@@ -269,7 +283,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-07-17T23:53:20.460555009Z"
+    created: "2025-01-02T00:52:11.666089234Z"
     description: A Helm chart for bookkeeper-operator
     digest: 0413b2b56ffc2e558f881276ebde520bbb4f5b8794405626c28daac75841e54d
     home: https://github.com/monimesl/bookkeeper-operator
@@ -283,7 +297,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-07-17T23:53:20.460023174Z"
+    created: "2025-01-02T00:52:11.665564752Z"
     description: A Helm chart for bookkeeper-operator
     digest: b40459ad165eeb9da516ccdcfde15bbb0037d0fefcfcaec31d3d716c029ac6ff
     home: https://github.com/monimesl/bookkeeper-operator
@@ -298,7 +312,7 @@ entries:
   pulsar-operator:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-07-17T23:53:20.482673286Z"
+    created: "2025-01-02T00:52:11.677590594Z"
     description: A Helm chart for pulsar-operator
     digest: f7895a7e9b99dc2a327aa685e1e37f027b32b25aa83603b507621f63f58cef0e
     home: https://github.com/monimesl/pulsar-operator
@@ -312,7 +326,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-07-17T23:53:20.482453755Z"
+    created: "2025-01-02T00:52:11.677367731Z"
     description: A Helm chart for pulsar-operator
     digest: ec9e621580260c681be1b6e577891e989e16ebbe26f04b0e646a01000cc1bcb8
     home: https://github.com/monimesl/pulsar-operator
@@ -326,7 +340,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-07-17T23:53:20.481952246Z"
+    created: "2025-01-02T00:52:11.676880068Z"
     description: A Helm chart for pulsar-operator
     digest: a718325330a85706e6521563ec51741ca1c754c87bfc469624d61d2649679a2f
     home: https://github.com/monimesl/pulsar-operator
@@ -340,7 +354,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-07-17T23:53:20.481442983Z"
+    created: "2025-01-02T00:52:11.676420006Z"
     description: A Helm chart for pulsar-operator
     digest: 85ef43177762fe60bd35910a857d19c02a8d343346da3afb31361206d364fb8d
     home: https://github.com/monimesl/pulsar-operator
@@ -355,7 +369,7 @@ entries:
   zookeeper-operator:
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2024-07-17T23:53:20.486421689Z"
+    created: "2025-01-02T00:52:11.68131266Z"
     description: A Helm chart for zookeeper-operator
     digest: 81d53a13de42e94a80f4b686ac6952cb139332d47da22d3facd0d0d9c76cfaa9
     home: https://github.com/monimesl/zookeeper-operator
@@ -369,7 +383,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2024-07-17T23:53:20.485928315Z"
+    created: "2025-01-02T00:52:11.680833833Z"
     description: A Helm chart for zookeeper-operator
     digest: 349972df1254c4a71549eba6d630bc4e90f944d74251a7330942ce6a40382b0e
     home: https://github.com/monimesl/zookeeper-operator
@@ -383,7 +397,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2024-07-17T23:53:20.485409334Z"
+    created: "2025-01-02T00:52:11.680347242Z"
     description: A Helm chart for zookeeper-operator
     digest: 68a155d118a343c014636c0864ad1a773b522a81bf07de70c8a8acc17df62c0f
     home: https://github.com/monimesl/zookeeper-operator
@@ -397,7 +411,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2024-07-17T23:53:20.484918305Z"
+    created: "2025-01-02T00:52:11.679816088Z"
     description: A Helm chart for zookeeper-operator
     digest: 59839ea36f3509a296f63236c581a5e3ac2ca3b7fd858ccd2eab49da7e019e4d
     home: https://github.com/monimesl/zookeeper-operator
@@ -411,7 +425,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-07-17T23:53:20.484381661Z"
+    created: "2025-01-02T00:52:11.679303338Z"
     description: A Helm chart for zookeeper-operator
     digest: 6eaef40d0f8c9b55343a8592693f3cf6d192176baf53f15224cedf53fb843313
     home: https://github.com/monimesl/zookeeper-operator
@@ -425,7 +439,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-07-17T23:53:20.483649833Z"
+    created: "2025-01-02T00:52:11.678045516Z"
     description: A Helm chart for zookeeper-operator
     digest: 29b5848bd3da9f220806f5bc3639711f86eef9398a006ff29ce86ce548828760
     home: https://github.com/monimesl/zookeeper-operator
@@ -437,4 +451,4 @@ entries:
     urls:
     - https://monimesl.github.io/helm-charts/zookeeper-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-17T23:53:20.459355043Z"
+generated: "2025-01-02T00:52:11.664929195Z"
